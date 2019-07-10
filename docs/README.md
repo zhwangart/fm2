@@ -11,6 +11,7 @@
 ## 尼康单反相机发展过程
 
 <table>
+	<caption></caption>
   <thead>
   <tr>
     <th rowspan="2"></th>
@@ -145,17 +146,21 @@
       <td colspan="7" class="mark-nikomat">FS</td>
       <td colspan="4"></td>
       <td colspan="2" class="mark-nikomat">ELW</td>
-      <td colspan="5">FE</td>
-      <td colspan="7">FE2</td>
+      <td colspan="5"><i>FE</i></td>
+      <td colspan="7"><i>FE2</i></td>
     </tr>
     <tr>
       <td colspan="2"></td>
       <td colspan="8">Nikkorex F / Nikkor J</td>
       <td colspan="2"></td>
-      <td colspan="4" class="mark-nikomat">EL</td>
+      <td colspan="4" class="mark-nikomat"><i>EL</i></td>
       <td></td>
-      <td colspan="2">EL2</td>
+      <td colspan="2"><i>EL2</i></td>
       <td></td>
+      <td colspan="3"></td>
+      <td colspan="7"><i>FA</i></td>
+      <td colspan="6"><i>F-601M (N6000)</i></td>
+      <td colspan="14"><i>FE10</i></td>
     </tr>
     <tr>
       <td colspan="10"></td>
@@ -208,6 +213,9 @@
     </tr>
   </tbody>
 </table>
+
+<ul class="list-inline"><li class="list-inline-item"><span class="mark-autofocus">橙色背景</span> 代表有自动对焦马达</li><li class="list-inline-item"><span class="mark-aps">紫色背景</span> 代表有APS-格式</li><li class="list-inline-item"><span class="mark-compur">红色背景</span> 代表有叶片快门的Nikkorex</li><li class="list-inline-item"><span class="mark-nikomat">绿色背景</span> 代表Nikomat/Nikkormat</li><li class="list-inline-item"><i>斜字体</i> 手动对焦用电子功能 (A 模式)</li></ul>
+
 
 ## 说明书
 

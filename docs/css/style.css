@@ -14,3 +14,13 @@
 .mark-nikomat {
 	background-color: #99ff99;
 }
+
+.list-inline {
+	list-style: none;
+	padding-left: 0!important;
+	margin: auto -.5rem;
+}
+.list-inline .list-inline-item {
+	display: inline-block;
+	padding: 0 .5rem;
+}
