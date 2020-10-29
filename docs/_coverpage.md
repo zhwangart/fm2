@@ -11,6 +11,6 @@
 <!-- [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#quick-start) -->
 
-<!-- ![](_media/FM2.svg) -->
+<!-- ![](_media/FM2.svg)
 
-<!-- ![color](#f0f0f0) -->
+![color](#f0f0f0) -->
